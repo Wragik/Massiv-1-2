@@ -1,0 +1,4 @@
+﻿  Mass1.cpp
+C:\Users\wardik\Desktop\program\Mass1\Mass1\Mass1.cpp(24,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\wardik\Desktop\program\Mass1\Mass1\Mass1.cpp(14,18): warning C4101: n: неиспользованная локальная переменная
+  Mass1.vcxproj -> C:\Users\wardik\Desktop\program\Mass1\x64\Debug\Mass1.exe

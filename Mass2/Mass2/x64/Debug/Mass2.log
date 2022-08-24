@@ -1,0 +1,4 @@
+﻿  Mass2.cpp
+C:\Users\wardik\Desktop\program\Mass2\Mass2\Mass2.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\wardik\Desktop\program\Mass2\Mass2\Mass2.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Mass2.vcxproj -> C:\Users\wardik\Desktop\program\Mass2\x64\Debug\Mass2.exe
